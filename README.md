@@ -1,3 +1,3 @@
 # Age-Calculator        
 Name: Annu Priya       
-Lnaguage: HTML,CSS,Java Script;
+Lnaguage: HTML,CSS,Java Script 
